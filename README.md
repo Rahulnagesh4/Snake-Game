@@ -41,4 +41,4 @@ A classic Snake Game built using Python's **turtle graphics** module. Control th
 
 ---
 
-## 📂 Project Structure
+
